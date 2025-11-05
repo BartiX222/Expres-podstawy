@@ -1,0 +1,15 @@
+{
+  "name": "express-exercises",
+  "version": "1.0.0",
+  "description": "Cwiczenia express",
+  "main": "server1.js",
+  "scripts": {
+    "start:server1": "node server1.js",
+    "start:server2": "node server2.js",
+    "start:server3": "node server3.js",
+    "start:server4": "node server4.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

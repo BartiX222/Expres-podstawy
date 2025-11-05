@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Node",
+    "content": "Node.js to środowisko do uruchamiania JavaScript poza przeglądarką."
+  },
+  {
+    "title": "Express",
+    "content": "Express to framework do szybkiego tworzenia serwerów i API."
+  }
+]
